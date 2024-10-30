@@ -1,0 +1,292 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"X-Generator: babel-plugin-makepot\n"
+
+#: src/blocks/the-player/edit.js:181
+msgid "Blockplayer Content"
+msgstr ""
+
+#: src/blocks/the-player/edit.js:315
+msgid "Blockplayer Poster"
+msgstr ""
+
+#: src/blocks/the-player/edit.js:365
+msgid "Blockplayer Configure"
+msgstr ""
+
+#: src/blocks/the-player/edit.js:389
+msgid "Loop"
+msgstr ""
+
+#: src/blocks/the-player/edit.js:392
+msgid "Loop on"
+msgstr ""
+
+#: src/blocks/the-player/edit.js:393
+msgid "Loop off"
+msgstr ""
+
+#: src/blocks/the-player/edit.js:402
+msgid "Mute"
+msgstr ""
+
+#: src/blocks/the-player/edit.js:405
+msgid "Mute on"
+msgstr ""
+
+#: src/blocks/the-player/edit.js:406
+msgid "Mute off"
+msgstr ""
+
+#: src/blocks/the-player/edit.js:415
+msgid "Autoplay"
+msgstr ""
+
+#: src/blocks/the-player/edit.js:418
+msgid "Autoplay on"
+msgstr ""
+
+#: src/blocks/the-player/edit.js:419
+msgid "Autoplay off"
+msgstr ""
+
+#: src/blocks/the-player/edit.js:428
+msgid "Show Developer Url"
+msgstr ""
+
+#: src/blocks/the-player/edit.js:431
+msgid "on"
+msgstr ""
+
+#: src/blocks/the-player/edit.js:432
+msgid "off"
+msgstr ""
+
+#: src/blocks/the-player/edit.js:451
+msgid "Blockplayer Controls"
+msgstr ""
+
+#: src/blocks/the-player/edit.js:459
+msgid "FullScreen icon control"
+msgstr ""
+
+#: src/blocks/the-player/edit.js:462
+msgid "Full Screen icon on"
+msgstr ""
+
+#: src/blocks/the-player/edit.js:463
+msgid "Full Screen icon off"
+msgstr ""
+
+#: src/blocks/the-player/edit.js:472
+msgid "Volume control"
+msgstr ""
+
+#: src/blocks/the-player/edit.js:475
+msgid "Volume icon on"
+msgstr ""
+
+#: src/blocks/the-player/edit.js:476
+msgid "Volume icon off"
+msgstr ""
+
+#: src/blocks/the-player/edit.js:485
+msgid "Mute control"
+msgstr ""
+
+#: src/blocks/the-player/edit.js:488
+msgid "Mute icon on"
+msgstr ""
+
+#: src/blocks/the-player/edit.js:489
+msgid "Mute icon off"
+msgstr ""
+
+#: src/blocks/the-player/edit.js:498
+msgid "Progress control"
+msgstr ""
+
+#: src/blocks/the-player/edit.js:501
+msgid "Progress bar on"
+msgstr ""
+
+#: src/blocks/the-player/edit.js:502
+msgid "Progress bar off"
+msgstr ""
+
+#: src/blocks/the-player/edit.js:511
+msgid "Forward control"
+msgstr ""
+
+#: src/blocks/the-player/edit.js:514
+msgid "Forward icon on"
+msgstr ""
+
+#: src/blocks/the-player/edit.js:515
+msgid "Forward icon off"
+msgstr ""
+
+#: src/blocks/the-player/edit.js:524
+msgid "Rewind control"
+msgstr ""
+
+#: src/blocks/the-player/edit.js:527
+msgid "Rewind icon on"
+msgstr ""
+
+#: src/blocks/the-player/edit.js:528
+msgid "Rewind icon off"
+msgstr ""
+
+#: src/blocks/the-player/edit.js:537
+msgid "Restart control"
+msgstr ""
+
+#: src/blocks/the-player/edit.js:540
+msgid "Restart icon on"
+msgstr ""
+
+#: src/blocks/the-player/edit.js:541
+msgid "Restart icon off"
+msgstr ""
+
+#: src/blocks/the-player/edit.js:550
+msgid "Play control"
+msgstr ""
+
+#: src/blocks/the-player/edit.js:553
+msgid "Play icon on"
+msgstr ""
+
+#: src/blocks/the-player/edit.js:554
+msgid "Play icon off"
+msgstr ""
+
+#: src/blocks/the-player/edit.js:563
+msgid "Big Play control"
+msgstr ""
+
+#: src/blocks/the-player/edit.js:566
+msgid "Big Play icon on"
+msgstr ""
+
+#: src/blocks/the-player/edit.js:567
+msgid "Big Play icon off"
+msgstr ""
+
+#: src/blocks/the-player/edit.js:576
+msgid "PIP control"
+msgstr ""
+
+#: src/blocks/the-player/edit.js:579
+msgid "PIP icon on"
+msgstr ""
+
+#: src/blocks/the-player/edit.js:580
+msgid "PIP icon off"
+msgstr ""
+
+#: src/blocks/the-player/edit.js:600
+msgid "Blockplayer Style"
+msgstr ""
+
+#: src/blocks/the-popup/edit.js:100
+msgid "Off"
+msgstr ""
+
+#: src/blocks/the-popup/edit.js:119
+msgid "Modal Content"
+msgstr ""
+
+#: src/blocks/the-popup/edit.js:223
+msgid "Upload Custom Video"
+msgstr ""
+
+#: src/blocks/the-popup/edit.js:254
+msgid "Modal Style"
+msgstr ""
+
+#: src/blocks/the-popup/edit.js:285
+msgid "Modal Configuration"
+msgstr ""
+
+#: src/blocks/the-popup/edit.js:88
+msgid "Editor Modal Preview"
+msgstr ""
+
+#: src/blocks/the-popup/edit.js:96
+msgid "Modal Preview"
+msgstr ""
+
+#: src/blocks/the-popup/edit.js:99
+msgid "On"
+msgstr ""
+
+#: src/blocks/the-popup/index.js:33
+msgid "BlockPlayer Popup/Modal/LightBox"
+msgstr ""
+
+#: src/blocks/the-popup/index.js:34
+msgid "BlockPlayer Popup - Play Popup/lightbox/modal Video From Anywhere"
+msgstr ""
+
+#: src/blocks/the-popup/index.js:37
+msgid "Popup video player"
+msgstr ""
+
+#: src/blocks/the-popup/index.js:38
+msgid "Modal video player"
+msgstr ""
+
+#: src/blocks/the-popup/index.js:39
+msgid "Lightbox video player"
+msgstr ""
+
+#: src/blocks/the-popup/index.js:40
+msgid "Popup video"
+msgstr ""
+
+#: src/blocks/the-popup/index.js:41
+msgid "Modal video"
+msgstr ""
+
+#: src/blocks/the-popup/index.js:42
+msgid "Lightbox video"
+msgstr ""
+
+#: src/blocks/the-popup/index.js:43
+msgid "Popup player"
+msgstr ""
+
+#: src/blocks/the-popup/index.js:44
+msgid "Modal player"
+msgstr ""
+
+#: src/blocks/the-popup/index.js:45
+msgid "Lightbox player"
+msgstr ""
+
+#: src/blocks/the-popup/index.js:46
+msgid "mp4"
+msgstr ""
+
+#: src/blocks/the-popup/index.js:47
+msgid "webm"
+msgstr ""
+
+#: src/blocks/the-popup/index.js:48
+msgid "ogv"
+msgstr ""
+
+#: src/blocks/the-popup/index.js:49
+msgid "hls"
+msgstr ""
+
+#: src/blocks/the-popup/index.js:50
+msgid "dash"
+msgstr ""
+
+#: src/blocks/the-popup/index.js:65
+msgid "Watch Now."
+msgstr ""

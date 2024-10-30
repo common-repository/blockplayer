@@ -1,0 +1,22 @@
+
+== Changelog ==
+
+= 1.0.0 =
+
+- Initial release
+
+= 1.0.1 =
+
+- Border Radius Updated
+
+= 1.0.2 =
+
+- Tested with 6.0 WordPress Version
+
+= 1.0.5 =
+
+- Border Radius, Code optimize
+
+= 1.1.0 =
+
+- Youtube Popup, youtube modal, youtube lightbox added
